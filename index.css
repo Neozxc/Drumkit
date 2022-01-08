@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Lato:wght@300&family=Nunito:ital@1&family=Oswald:wght@700&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&family=Roboto:wght@700&family=Source+Code+Pro&display=swap');
+
+* {
+    margin: 0; padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#firstButtons {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#numberOne:hover {
+    transition: 0.3s ease;
+    background-color: gray;
+}
+
+#numberTwo:hover {
+    transition: 0.3s ease;
+    background-color: gray;
+}
+
+#numberThree:hover {
+    transition: 0.3s ease;
+    background-color: gray;
+}
+
+#numberFour:hover {
+    transition: 0.3s ease;
+    background-color: gray;
+}
+
+#numberFive:hover {
+    transition: 0.3s ease;
+    background-color: gray;
+}
+
+#numberSix:hover {
+    transition: 0.3s ease;
+    background-color: gray;
+}
+
+#secondButtons {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#numberOne {
+    height: 150px;
+    line-height: 40px;  
+    width: 150px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #5865F2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#numberTwo {
+    height: 150px;
+    line-height: 40px;  
+    width: 150px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #5865F2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#numberThree {
+    height: 150px;
+    line-height: 40px;  
+    width: 150px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #5865F2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#numberFour {
+    height: 150px;
+    line-height: 40px;  
+    width: 150px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #5865F2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#numberFive {
+    height: 150px;
+    line-height: 40px;  
+    width: 150px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #5865F2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#numberSix {
+    height: 150px;
+    line-height: 40px;  
+    width: 150px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #5865F2;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
