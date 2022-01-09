@@ -17,31 +17,31 @@ const sound6 = document.getElementById("sound6");
 numberOne.addEventListener("click", () => {
     sound1.volume = 0.1;
     sound1.play();
+});
 
-    numberTwo.addEventListener("click", () => {
-        sound2.volume = 0.1;
-        sound2.play();
-    });
-    
-    numberThree.addEventListener("click", () => {
-        sound3.volume = 0.1;
-        sound3.play();
-    });
+numberTwo.addEventListener("click", () => {
+    sound2.volume = 0.1;
+    sound2.play();
+});
 
-    numberFour.addEventListener("click", () => {
-        sound4.volume = 0.1;
-        sound4.play();
-    });
+numberThree.addEventListener("click", () => {
+    sound3.volume = 0.1;
+    sound3.play();
+});
 
-    numberFive.addEventListener("click", () => {
-        sound5.volume = 0.1;
-        sound5.play();
-    });
+numberFour.addEventListener("click", () => {
+    sound4.volume = 0.1;
+    sound4.play();
+});
 
-    numberSix.addEventListener("click", () => {
-        sound6.volume = 0.1;
-        sound6.play();
-    });
+numberFive.addEventListener("click", () => {
+    sound5.volume = 0.1;
+    sound5.play();
+});
+
+numberSix.addEventListener("click", () => {
+    sound6.volume = 0.1;
+    sound6.play();
 });
 
 addEventListener("keypress", (event) => {
